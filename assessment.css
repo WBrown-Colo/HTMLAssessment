@@ -16,3 +16,8 @@ thead tr th {
 .hyperLink, li {
 	list-style: square;
 }
+
+.hyperLink:hover {
+	color: white;
+	background-color: black;
+}
