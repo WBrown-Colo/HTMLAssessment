@@ -12,3 +12,7 @@ thead tr th {
 	border: 2px solid black;
 	text-align: center;
 }
+
+.hyperLink, li {
+	list-style: square;
+}
