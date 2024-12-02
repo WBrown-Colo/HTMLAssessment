@@ -1,4 +1,4 @@
-h2, h3, h4, h5 {
+.subjectHeader {
 	color: #630305;
 	font-family: Verdana;
 }
@@ -13,7 +13,7 @@ thead tr th {
 	text-align: center;
 }
 
-.hyperLink, li {
+#teamRoster li{
 	list-style: square;
 }
 
@@ -25,4 +25,8 @@ thead tr th {
 blockquote {
 	background-color: #002244;
 	color: #FB4F14;
+}
+
+#checkbox-grid li {
+	list-style: none;
 }
