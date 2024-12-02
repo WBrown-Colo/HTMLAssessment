@@ -2,3 +2,13 @@ h2, h3, h4, h5 {
 	color: #630305;
 	font-family: Verdana;
 }
+
+thead tr th {
+	color: gold;
+	font-family: bold;
+}
+
+#scoreBoard {
+	border: 2px solid black;
+	text-align: center;
+}
