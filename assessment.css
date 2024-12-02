@@ -21,3 +21,8 @@ thead tr th {
 	color: white;
 	background-color: black;
 }
+
+blockquote {
+	background-color: #002244;
+	color: #FB4F14;
+}
